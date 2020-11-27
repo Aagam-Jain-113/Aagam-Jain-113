@@ -1,4 +1,4 @@
-### Hey there Web DEVs, This is Aagam!👋
+# Hey there Web DEVs, This is Aagam!👋
 <hr />
 
 I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. From the beginning I am very much interested in designing of different websites so I started Web Developing and I am ready to surpass ⏩ all the upcoming challenges and curious to learn any form of language that helps in designing and developing 🔨 a website. I love to explore new technologies and leverage them to solve real-life problems 💥. I'm currently learning React <img height="15" src="https://cdn.worldvectorlogo.com/logos/react.svg"> and looking forward ⏩ for new opportunites to showcase myself.
@@ -19,7 +19,7 @@ I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Com
 
 ![Aagam's Github stats](https://github-readme-stats.vercel.app/api?username=Aagam-Jain-113&show_icons=true&hide_border=true)
 
-💬 Ask me about anything, I would like to answer.
+### 💬  Ask me about anything, I would like to answer.
 
 ## Connect with me:
 
