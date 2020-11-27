@@ -1,8 +1,27 @@
-### Hey there Web DEVs, This is Aagam! 👋
-<hr />
+### Hey there Web DEVs, This is Aagam!👋
 
-I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. From the beginning I am very much interested in designing of different websites so I started Web Developing and I am ready to surpass ⏩ all the upcoming challenges and curious to learn any form of language that helps in designing and developing 🔨 a website. I love to explore new technologies and leverage them to solve real-life problems 💥. I'm currently into React and eagerly waiting for new opportunites to showcase myself.
+I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. From the beginning I am very much interested in designing of different websites so I started Web Developing and I am ready to surpass ⏩ all the upcoming challenges and curious to learn any form of language that helps in designing and developing 🔨 a website. I love to explore new technologies and leverage them to solve real-life problems 💥. I'm currently learning React <img height="15" src="https://cdn.worldvectorlogo.com/logos/react.svg"> and looking forward ⏩ for new opportunites to showcase myself.
 
+
+## Languages and Tools:
+
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html-5.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/css3.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/c.svg"></code>
+<code><img height="40" src="https://cdn.svgporn.com/logos/python.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/office-1.svg"></code>
+
+## Connect with me:
+
+<a href="mailto:aagamjain113@gmail.com"><img alt="Aagam's Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" /></a> 
+<a href="https://www.linkedin.com/in/aagam-jain-b5760619a/"><img alt="Aagam's Linkdein" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" /></a>
+
+💬 Ask me about anything, I would like to answer.
+### Happy Coding! <img height="20" src="https://cdn.worldvectorlogo.com/logos/smile-2.svg">
 
 <!--
 **Aagam-Jain-113/Aagam-Jain-113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
