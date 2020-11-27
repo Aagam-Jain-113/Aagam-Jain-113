@@ -1,4 +1,8 @@
-### Hey, I'm Aagam Jain 👋
+### Hey there Web DEVs, This is Aagam! 👋
+<hr />
+
+I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. From the beginning I am very much interested in designing of different websites so I started Web Developing and I am ready to surpass ⏩ all the upcoming challenges and curious to learn any form of language that helps in designing and developing 🔨 a website. I love to explore new technologies and leverage them to solve real-life problems 💥. I'm currently into React and eagerly waiting for new opportunites to showcase myself.
+
 
 <!--
 **Aagam-Jain-113/Aagam-Jain-113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
