@@ -9,7 +9,7 @@ I'm a Junior Year student pursuing Bachelor of Technology in Electronics and Com
 
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/css3.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/c.svg"></code>
