@@ -1,16 +1,20 @@
 # Hey there Web DEVs, This is Aagam!👋
 <hr />
 
-I'm a Senior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. From the beginning I am very much interested in designing that I started y journey with painting and after starting my life as an engineer I started Web Developing and I am ready to surpass ⏩ all the upcoming challenges and curious to learn any form of language that helps in designing and developing 🔨 a website. I love to explore new technologies and leverage them to solve real-life problems 💥. I'm currently learning React <img height="15" src="https://cdn.worldvectorlogo.com/logos/react.svg"> and looking forward ⏩ for new opportunites to showcase myself.
+I'm a Senior Year student pursuing Bachelor of Technology in Electronics and Communication 🎓 from Birla Institute of Technology, Mesra 🏛. From the beginning I am very much interested in designing that I started y journey with painting and after starting my life as an engineer I started Web Developing and I am ready to surpass ⏩ all the upcoming challenges and curious to learn any form of language that helps in designing and developing 🔨 a website. I love to explore new technologies and leverage them to solve real-life problems 💥. I'm currently learning React <img height="15" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"> and looking forward ⏩ for new opportunites to showcase myself.
 
 <img align="right" height="300px" width="300px" src="https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=393&q=80">
 
 ## Languages and Tools:
 
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg"></code>
-<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/css3.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/css3.svg"></code>
+<code><img height="40" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"></code>
 <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/c.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/python.svg"></code>
